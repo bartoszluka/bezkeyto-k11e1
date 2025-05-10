@@ -10,3 +10,4 @@
 1. kliknij "authorize device" i wybierz opcję "k11e1" (lub "aineejames k11e1")
     ![wybierz macropad](./authorize-device.png)
 1. teraz możesz już konfigurować dowolny przcisk jak i pokrętło (je też można kliknąć!)
+    ![konfiguracja](./configure.png)
